@@ -2,9 +2,9 @@
 
 ## Contents
 
-These are non-confidental code snippets that I extracted from the project I worked on as a Software Development Apprentice at Expedia Group (summer 2019). The full code of our project is now property of Expedia Group and use some confidential resources.
+These are non-confidental code snippets that I extracted from the project I worked on as a Software Development Apprentice at Expedia Group (summer 2019). The full code of our project uses some confidential resources and is now property of Expedia Group.
 
-Because they were originally embedded within a larger program, these snippets are **not** fully-finished stand-alone programs (hence the removal of front-end design aspects), but I hope to be able to apply the essential functionality to future projects.
+Because these snippets were originally embedded within a larger program, they are **not** fully-finished stand-alone programs (hence the removal of front-end design aspects), but I hope to be able to apply the essential functionality to future projects.
 
 ## Context
 
